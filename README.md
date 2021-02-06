@@ -1,1 +1,1 @@
-# wfi-hacker-prank
+# wifi-hacker-prank
