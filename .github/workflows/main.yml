@@ -1,0 +1,6 @@
+install on termux 
+
+pkg install python
+
+pkg install git
+git clone https://github.com/Imad-glitch/wfi-hacker-prank
